@@ -1,4 +1,14 @@
-baseURL = ''
+baseURL = 'https://cederberg.xyz'
 languageCode = 'en-us'
 title = 'cederberg.xyz'
 theme = 'cederberg'
+
+[menu]
+  [[menu.main]]
+    name = 'home'
+    url = '/'
+    weight = -100
+  [[menu.main]]
+    name = 'about'
+    url = '/about/'
+    weight = -90
