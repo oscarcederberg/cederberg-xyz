@@ -9,6 +9,10 @@ theme = 'cederberg'
     url = '/'
     weight = -100
   [[menu.main]]
+    name = 'oscar'
+    url = 'https://oscar.cederberg.xyz'
+    weight = -95
+  [[menu.main]]
     name = 'about'
     url = '/about/'
     weight = -90
