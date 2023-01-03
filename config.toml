@@ -1,7 +1,10 @@
 baseURL = 'https://cederberg.xyz'
 languageCode = 'en-us'
-title = 'cederberg.xyz'
+title = 'cederberg'
 theme = 'cederberg'
+
+[params]
+subtitle = 'under construction'
 
 [menu]
   [[menu.main]]
